@@ -10,3 +10,5 @@ Algoritmo Ejercicio1
 	Escribir respuesta;
 	
 FinAlgoritmo
+Esto es una pruba
+de git
